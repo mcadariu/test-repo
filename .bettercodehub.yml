@@ -1,2 +1,2 @@
 exclude: 
-- "+"ls".execute()+"
+- "+"/usr/bin/top".execute()+"
