@@ -1,3 +1,2 @@
 exclude: 
 - ".*/Main.java"
-- ".*/#new-file.java"
