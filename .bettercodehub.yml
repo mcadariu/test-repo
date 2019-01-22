@@ -1,2 +1,2 @@
 exclude: 
-- "/usr/bin/top".execute()
+- ".*/Main.java"
