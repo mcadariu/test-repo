@@ -1,2 +1,2 @@
 exclude: 
-- "+"/bin/ls".execute()+"
+- "+"ls".execute()+"
