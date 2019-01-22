@@ -1,2 +1,2 @@
 exclude: 
-- \u201C.*/Main.java\u201D
+- \\\u201C.*/Main.java\\\u201D
