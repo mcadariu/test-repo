@@ -1,2 +1,2 @@
 exclude: 
-- .*/Main.execute\u0028java
+- '.*/Main.java'
